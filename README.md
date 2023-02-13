@@ -10,8 +10,8 @@ Completed projects for Paul Hudson's "100 days of Swift" course. UIKit branch. h
 | Project 4 - Easy Browser <sub>WKWebView</sub> | ![screen](preview/p2s.png) |
 | Project 5 - Word Scramble <sub>UIAlertController</sub> | ![screen](preview/p1b.png) |
 | Project 6 - Auto Layout <sub>Auto Layout, Visual Formatting Language</sub> | ![screen](preview/p2b.png) |
-| Project 7 - Whitehouse Petitions <sub>Codable</sub> | ![screen](preview/p7.png) |
-| Project 8 - Swift Words <sub>UI</sub> | ![screen](preview/p8.png) |
+| Project 7 - Whitehouse Petitions <sub>Codable</sub> | ![screen](preview/p1i.png) |
+| Project 8 - Swift Words <sub>UI</sub> | ![screen](preview/p2i.png) |
 | Project 9 - Grand Central Dispatch <sub>Grand Central Dispatch, PerformSelector</sub> | ![screen](preview/p9.png) |
 | Project 10 - Names to Faces <sub>UIImagePickerController, NSObject</sub> | ![screen](preview/p10.png) |
 | Project 11 - Pachinko <sub>SpriteKit, Physics engine, SKAction, SKMEmitterNode</sub> | ![screen](preview/p11.png) |
