@@ -4,8 +4,8 @@ Completed projects for Paul Hudson's "100 days of Swift" course. UIKit branch. h
 #Preview
 | Project | Screenshot |
 | :------ | :--------- |
-| Project 1 - Storm Viewer <sub>FileManager</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p1.png" width="24%" /> |
-| Project 2 - Guess the Flag <sub>IBAction, CALayer</sub> | ![screen](preview/p2.png) |
+| Project 1 - Storm Viewer <sub>FileManager</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p1.png" width="20%"/> |
+| Project 2 - Guess the Flag <sub>IBAction, CALayer</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p2.png" width="20%"/> |
 | Project 3 - Social Media <sub>UIActivityViewController</sub> | ![screen](preview/p3.png) |
 | Project 4 - Easy Browser <sub>WKWebView</sub> | ![screen](preview/p4.png) |
 | Project 5 - Word Scramble <sub>UIAlertController</sub> | ![screen](preview/p5.png) |
