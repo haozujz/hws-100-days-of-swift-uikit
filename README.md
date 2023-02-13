@@ -29,8 +29,8 @@ Completed projects for Paul Hudson's "100 days of Swift" course. UIKit branch. h
 | Project 23 - Swifty Ninja <sub>AVAudioPayer, CGPath, UIBezierPath</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p23.png" width="50%"/> |
 | Project 24 - Swift Strings <sub>NSAttributedString</sub> | No screenshot |
 | Project 25 - Selfie Share <sub>Multipeer connectivity, MCSession, MCBrowserViewController</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p25.png" width="20%"/> |
-| Project 26 - Marble Maze <sub>Accelerometer, CMMotionManager, Bitmasks</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p26.png" width="50%"/> |
-| Project 27 - Core Graphics <sub>Core Graphics, UIGraphicsImageRenderer, Transforms</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p27.png" width="50%"/> |
-| Project 28 - Secret Swift <sub>Biometrics authentication, Touch ID, Face ID, iOS Keychain</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p28.png" width="20%"/> |
-| Project 29 - Exploding Monkeys <sub>SpriteKit+UIKit, Texture atlas</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p29.png" width="40%"/> |
+| Project 26 - Marble Maze <sub>Accelerometer, CMMotionManager, Bitmasks</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p26.png" width="48%"/> |
+| Project 27 - Core Graphics <sub>Core Graphics, UIGraphicsImageRenderer, Transforms</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p27.png" width="48%"/> |
+| Project 28 - Secret Swift <sub>Biometrics authentication, Touch ID, Face ID, iOS Keychain</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p28.png" width="18%"/> |
+| Project 29 - Exploding Monkeys <sub>SpriteKit+UIKit, Texture atlas</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p29.png" width="48%"/> |
 | Project 30 - Instruments <sub>Debugging, Performance, Instruments, Time Profiler, Allocations</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p30.png" width="18%"/> |
