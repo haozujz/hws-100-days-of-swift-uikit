@@ -17,7 +17,7 @@ Completed projects for Paul Hudson's "100 days of Swift" course. UIKit branch. h
 | Project 11 - Pachinko <sub>SpriteKit, Physics engine, SKAction, SKMEmitterNode</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p11.png" width="20%"/> |
 | Project 12 - User Defaults <sub>UserDefaults, NSCoding, Codable</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p12.png" width="20%"/> |
 | Project 13 - Instafilter <sub>CIContext, CIFilter, Persistant data</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p13.png" width="20%"/> |
-| Project 14 - Whack-a-Penguin <sub>SKCropNode, SKTexture, SKAction</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p14.png" width="20%"/> |
+| Project 14 - Whack-a-Penguin <sub>SKCropNode, SKTexture, SKAction</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p14.png" width="60%"/> |
 | Project 15 - Animation <sub>Animation, CGAffineTransform</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p15.png" width="20%"/> |
 | Project 16 - Capital Cities <sub>MapKit, MKAnnotation</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p16.png" width="20%"/> |
 | Project 17 - Space Race <sub>Collision, Timer, Damping</sub> | <img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/p17.png" width="20%"/> |
