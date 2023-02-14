@@ -1,6 +1,8 @@
 # hws-100-days-of-swift-uikit
 Completed projects for Paul Hudson's "100 days of Swift" course. UIKit branch. https://www.hackingwithswift.com/100
 
+<img src="https://raw.githubusercontent.com/haozujz/hws-100-days-of-swift-uikit/master/preview/certificate.jpg" width="480"/>
+
 #Preview
 | Project | Screenshot |
 | :------ | :--------- |
